@@ -1,0 +1,15 @@
+{
+	"ignored_packages": 
+	[
+		
+	],
+	"font_size": 13,
+	"tab_size": 2,
+	"translate_tab_to_spaces": true,
+	"scroll_past_end": true,
+	"theme": "auto",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"index_exclude_patterns": ["*.log","*.beam"],
+	"binary_file_patterns": ["*.beam", "_build/","node_modules/"],
+	"vintage_start_in_command_mode": true
+}
