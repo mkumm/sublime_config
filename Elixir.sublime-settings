@@ -1,0 +1,5 @@
+{
+	"tab_size": 2,
+	"index_exclude_patterns": ["_build/*, *.beam"],
+	"index_exclude_gitignore": true
+}
